@@ -23,6 +23,7 @@ public class LegumeResource {
         legumes.add(new Legume("Zucchini", "Summer squash"));
         legumes.add(new Legume("Peanut", "Goober peas"));
         legumes.add(new Legume("Alfalfa", "Also called lucerne"));
+        legumes.add(new Legume("Clover", "Wish you luck"));
     }
 
     @GET
